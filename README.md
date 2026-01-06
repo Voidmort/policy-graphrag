@@ -204,6 +204,8 @@ llm_api_key=YOUR_API_KEY
 llm_base_url=YOUR_BASE_URL
 ```
 
+详情参考 `.env.example` [env模版](.env.example)
+
 ---
 
 ## 🚀 快速开始（Quick Start）
