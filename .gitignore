@@ -1,0 +1,15 @@
+# Python-generated files
+*.pyc
+*.html
+*.parquet
+.DS_Store
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+resource/
+# Virtual environments
+.venv
